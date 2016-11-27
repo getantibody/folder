@@ -1,4 +1,4 @@
-# folder
+# folder [![Build Status](https://travis-ci.org/getantibody/folder.svg?branch=master)](https://travis-ci.org/getantibody/folder)
 
 URL to folder name parser based on antigen rules
 
